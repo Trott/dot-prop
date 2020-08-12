@@ -38,9 +38,9 @@
     "is-obj": "^1.0.0"
   },
   "devDependencies": {
-    "ava": "*",
+    "ava": "^0.25.0",
     "matcha": "^0.7.0",
-    "xo": "*"
+    "xo": "^0.18.2"
   },
   "xo": {
     "esnext": true
